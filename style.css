@@ -251,6 +251,19 @@ margin-top: -1px;
     
     }
 
+
+    footer .social{
+        
+        
+        display: flex;
+        justify-content:space-evenly; 
+        
+        padding: 0 15px;
+        color: #4b4c4d;
+        margin-left:5% ;
+        
+    }
+
     
     
     
