@@ -48,9 +48,10 @@ border-radius: 15px;
 }
 
 .half-side img{
-    width: 100%;
+    width: 120%;
+    margin-bottom: -28px;
     
-    
+    /* vertical-align: bottom; */
 }
 h1{
     font-size: 70px;
