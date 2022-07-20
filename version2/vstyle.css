@@ -89,10 +89,15 @@ color: whitesmoke;
 }
 
 .fixture a:visited{
-    
-    color: red;
+    color: rebeccapurple;
     background-color: red;
 }
+
+
+.fixture a{
+    background-color: red;
+}
+
 
 
 /******************content left************/
@@ -116,6 +121,15 @@ color: whitesmoke;
     
 
 }
+#um{
+    background-color: red;
+    width: 70%;
+    height: 35%;
+    margin-left:40px;
+    padding: 12px;
+    border-radius: 10px;
+    text-align: center;
+}
 
 
 
@@ -130,11 +144,7 @@ color: whitesmoke;
     border-radius: 10px;
     text-align: center;
 }
-.fixture a{
-    text-decoration: none;
-}
-
-/* #blog{
+#blog{
 
     background-color:red;
     border-radius: 10px;
@@ -146,7 +156,7 @@ color: whitesmoke;
     padding: 12px;
     text-align: center;
     
-} */
+}
 
 
 
