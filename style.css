@@ -94,6 +94,8 @@ color: whitesmoke;
     margin-top: 20px;
     border-radius: 5px;
     display: flex;
+
+    
     
 }
 
@@ -122,7 +124,7 @@ color: whitesmoke;
     margin-top: 20px;
     border-radius: 5px;
     display: grid;
-    /* grid-template-rows: repeat(3,2fr); */
+    
     
 
 }
@@ -139,6 +141,8 @@ color: whitesmoke;
     padding: 12px;
     border-radius: 10px;
     text-align: center;
+    
+    
 }
 .fixture a{
     text-decoration: none;
