@@ -5,6 +5,7 @@ margin: 0;
 padding: 0;
 overflow-x: hidden;
 width:105vw;
+background-color: #fefbe9;
 
 }
 /********************Start of Hero Section**************/
@@ -97,8 +98,9 @@ color: whitesmoke;
     
     width: 25%;
     height: 320px;
-    background-color: black;
-    
+    background-color:#2C3941;
+     
+     
     margin-left: -6%;
     padding-left: -2%;
     margin-top: 20px;
@@ -113,24 +115,26 @@ color: whitesmoke;
 
 .fixture{
 
-    background-color: red;
+    background-color:white;
     color: black;
     width: 70%;
     height: 35%;
     margin-left:40px;
     padding: 12px;
-    
-    
+    border-radius: 10px;
+    text-align: center;
 }
 #blog{
 
-    background-color:blueviolet;
+    background-color:red;
+    border-radius: 10px;
     color: black;
     width: 70%;
     height: 35%;
     margin-left:40px;
     padding: 5px;
     padding: 12px;
+    text-align: center;
     
 }
 
@@ -188,3 +192,46 @@ color: black;
 }
 
 /******************content right************/
+
+
+
+footer{
+
+     background-color: #221309; 
+    color: whitesmoke;
+
+    text-align: center;
+
+height: 40vh;
+
+    
+}
+hr{
+    width:60%;
+
+    margin-left: 20%;
+color: darkgrey;
+margin-top: -1px;
+}
+
+.menu ul li{
+
+    list-style: none;
+    display: inline-block;
+    padding: 0 15px;
+    
+    
+    }
+    
+    .menu ul li a{
+    
+        color: whitesmoke;
+    text-decoration: none;
+    
+    
+    
+    }
+
+    
+    
+    
