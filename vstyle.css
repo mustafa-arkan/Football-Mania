@@ -184,17 +184,18 @@ color: whitesmoke;
     
     
 }
-.banner{
+.flag{
 
-height: 312px;
+height: 212px;
+width: 242px;
 color: black;
-margin-bottom: 3px;
-
+padding-left: 65px;
 
 }
+.im{
+margin-top: 40px;
 
-
-
+}
 
 .t-btn{
     
