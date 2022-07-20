@@ -35,6 +35,15 @@
         
         background: linear-gradient( 45deg, #004B93 50%, red 50%);
     }
+
+
+    .hero_section p{
+
+text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+
+    }
     
     .half-side{
         width:50%;
@@ -51,7 +60,7 @@
     }
     
     .half-side img{
-        width: 100%;
+        width: 153%;
          
         margin-left: 25px;
     margin-bottom: -90px;
@@ -83,6 +92,7 @@
     /* height: 820px;  */
     
 margin-top: 330px;
+margin-left: -50px;
     
     border-radius: 5px;
 padding: 1%;
