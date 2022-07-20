@@ -7,9 +7,15 @@
 .fixed-content{
 
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
       background-color: whitesmoke;
-      align-items: flex-end;
+
+      width: 100%;
+    height: 320px;
+    
+
+    
+    border-radius: 5px;
 
 }
 
@@ -18,12 +24,14 @@
     background-color:white;
     color: black;
     width: 70%;
-    height: 35%;
-    margin-left:40px;
-    padding: 12px;
+    height: 25%;
+    /* margin-left:40px; */
+    /* padding: 12px; */
     border-radius: 10px;
     text-align: center;
-    
+    margin-top: -190px;
+    justify-content:space-between;
+   
 }
 .fixture a{
     text-decoration: none;
@@ -43,7 +51,9 @@
         margin-top: 20px; */
         border-radius: 5px;
         display: grid;
-        margin-left: -30px; 
+        margin-left: -30px;
+        
+        
     }
 
     .non-fixed{
@@ -60,8 +70,8 @@
         display: grid;
         grid-template-columns: repeat(2,1fr);
         row-gap: 5px;
-        column-gap: 5px;
-
+        column-gap: 60px;
+        margin-top: -190px;
 
 
         
