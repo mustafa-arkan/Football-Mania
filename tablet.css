@@ -6,7 +6,7 @@ body{
 
     background-color:#e1eedd;
 }
-
+/* ************start of hero section********** */
 .hero_section{
 
     background-color:  #221309;
@@ -33,7 +33,7 @@ body{
         
         float: left;
         margin-left: 5%;
-        /*padding-left: 2%; */
+        
         margin-left: -10px;
         margin-top: 5px;
         padding-left: 5%;
@@ -83,8 +83,7 @@ body{
     color: black;
     width: 70%;
     height: 25%;
-    /* margin-left:40px; */
-    /* padding: 12px; */
+    
     border-radius: 10px;
     text-align: center;
     margin-top: -190px;
@@ -137,7 +136,7 @@ body{
         
     }
     
-
+/* end of content section***************** */
 
 /* footer start */
 footer{
@@ -169,5 +168,7 @@ margin-top: -1px;
    
    
    }
+
+   /*************** end of footer****************** */
    
    
